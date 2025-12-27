@@ -42,9 +42,13 @@ Currently focused on **Mesa (Agent-Based Modeling)**, **LLM integrations**, and 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Nniteshver&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Nniteshver&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nniteshver&theme=dark&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=niteshver&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshver&layout=compact&theme=dark)
+
 
 ---
 
