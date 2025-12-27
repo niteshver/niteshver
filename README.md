@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Nitesh Verma
 
-🚀 **AI & ML Enthusiast | Open Source Contributor | CSE Student**  
+🚀 **AI & ML Enthusiast | ECE Student**  
 📍 India
 
-I enjoy building **AI-powered tools** and exploring how intelligent agents behave in real systems.  
-Currently focused on **Mesa (Agent-Based Modeling)**, **LLM integrations**, and **automation workflows**.
+I enjoy building **AI-powered tools** and exploring intelligent systems.  
+Currently focused on **Agent-Based Modeling (Mesa)**, **LLM-based applications**, and **automation workflows**.
 
 ---
 
 ## 🔍 What I'm Working On
-- 🧠 Learning **Mesa + Mesa-LLM** and contributing to open source  
-- 🤖 Building **AI chatbots** and **Chat-with-PDF** applications  
-- 🔗 Designing automation workflows using **n8n**  
-- 📊 Applying ML concepts with **Scikit-Learn**
+- 🧠 Learning **Mesa** and experimenting with agent-based simulations  
+- 🤖 Building **AI chatbots** and **Chat-with-PDF** tools  
+- 🔗 Creating automation workflows using **n8n**  
+- 📊 Applying machine learning concepts with **Scikit-Learn**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Core**
+**Languages**
 - Python 🐍
 - JavaScript (Node.js)
 
@@ -28,42 +28,36 @@ Currently focused on **Mesa (Agent-Based Modeling)**, **LLM integrations**, and 
 - NumPy, Pandas  
 - Matplotlib  
 
-**Tools & Platforms**
-- n8n (Automation)
+**Tools**
+- n8n  
 - Git & GitHub  
-- FAISS, Vector Databases  
+- FAISS / Vector Databases  
 
 ---
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niteshv1520)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshverm15/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nitesh%20Verma)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=niteshver&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshver&layout=compact&theme=dark)
 
-
----
-
-## 🔝 Open Source Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Nniteshver&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 ## 🎯 Goals
-- Contribute to **GSoC-style open source projects**
-- Build **real-world AI agent systems**
-- Grow as an **AI Engineer / ML Engineer**
+- Build **real-world AI systems**
+- Strengthen fundamentals in **ML & AI**
+- Grow as an **AI / ML Engineer**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Nniteshver&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=niteshver&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Crafted with ❤️ by Nitesh -->
+<!-- README crafted with ❤️ by Nitesh -->
