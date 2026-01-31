@@ -43,11 +43,12 @@ Currently focused on **Agent-Based Modeling (Mesa)**, **LLM-based applications**
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=niteshver&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=niteshver&theme=dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshver&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshver&layout=compact&theme=dark&cache_seconds=86400)
+
 
 ---
 
