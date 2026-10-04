@@ -2,146 +2,257 @@
 
 ### AI/ML Developer | ECE Student | Open Source Contributor
 
-I build practical **AI-powered applications and intelligent systems**, with a focus on **LLMs, RAG, AI agents, search systems, and data engineering**.
+I build practical **AI/ML systems, LLM applications, RAG pipelines, intelligent search systems, and agent-based applications**.
 
-Currently working on taking AI prototypes beyond demos by focusing on **reliability, production workflows, scalable data pipelines, and open-source contributions**.
+Currently focused on building reliable AI systems and contributing to open-source projects such as **Mesa-LLM**.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔎 NexaSearch — Intelligent Search Engine
-
-A domain-focused search engine project exploring **web crawling, content extraction, data processing, indexing, and hybrid retrieval**.
-
-**Tech Stack**
-
-`Python` · `Crawl4AI` · `Streamlit` · `Data Engineering`
-
-**Status:** 🟢 Running  
-**Deployment:** Local / Development  
-**Repository:** [NexaSearch](https://github.com/niteshver/NexaSearch)
+| Project | Description | Tech Stack | Status | Deployment |
+|:--|:--|:--|:--:|:--|
+| 🔎 **[NexaSearch](https://github.com/niteshver/NexaSearch)** | Domain-focused search engine for crawling, content processing, indexing and retrieval | `Python` · `Crawl4AI` · `Streamlit` · `Data Engineering` | 🟢 **Running** | Local |
+| 🏛️ **[TenderHub](https://github.com/niteshver/Tendor_Hub)** | AI-powered tender and bidder-document verification platform using RAG | `Python` · `FastAPI` · `RAG` · `JavaScript` · `Tailwind CSS` | ✅ **Completed** | 🚂 **Railway** |
+| 🧠 **[Mesa-LLM](https://github.com/mesa/mesa-llm)** | Open-source framework combining LLMs with Agent-Based Modeling | `Python` · `LLMs` · `Agent-Based Modeling` · `LiteLLM` | 🚧 **Contributing** | Open Source |
 
 ---
 
-### 🏛️ TenderHub — AI-Powered Tender Verification Platform
+## 🧠 What I Build
 
-An AI-powered platform designed to assist with **tender and bidder-document verification**, using automated processing and RAG-based requirement analysis.
-
-**Tech Stack**
-
-`Python` · `FastAPI` · `RAG` · `CSS` · `JavaScript` · `Tailwind CSS`
-
-**Status:** ✅ Completed  
-**Deployment:** 🚂 Railway  
-**Repository:** [TenderHub](https://github.com/niteshver/Tendor_Hub)
+- 🤖 **LLM Applications** — AI assistants, intelligent agents and tool-using systems
+- 📚 **RAG Systems** — document retrieval, embeddings and vector search
+- 🔎 **Search Systems** — crawling, indexing, retrieval and ranking
+- ⚙️ **AI Data Pipelines** — data collection, processing and preparation for AI systems
+- 🧩 **Agent-Based Modeling** — LLM-powered agents and simulations with Mesa
+- 🚀 **Production AI** — APIs, deployment, reliability and scalable workflows
+- 🔗 **Automation** — workflow automation using n8n
 
 ---
 
-## 🌟 Open Source
+# 🌟 Open Source Contributions
 
-### 🐍 Mesa-LLM Contributor
+## 🧠 Mesa-LLM
 
-Contributing to **Mesa-LLM**, an open-source project combining **Large Language Models with Agent-Based Modeling**.
+I contribute to **Mesa-LLM**, an open-source project that combines
+**Large Language Models with Agent-Based Modeling**.
 
-**Contribution highlights**
+### 📊 Contribution Overview
 
-- 🔀 Proposed **persistent fallback model support** using LiteLLM
-- 🔁 Worked on **LLM tool-call retry and reliability**
-- 🧩 Contributed to **SolaraViz / SpaceRenderer API migration**
-- 📚 Added and improved **documentation and tutorials**
-- 🧠 Developed example agent-based models including:
-  - Agriculture Decision Model
-  - EV Adoption Model
-  - School Enrollment Model
-  - Conflict-Driven Migration Model
-  - Epstein Civil Violence tutorials
-- 🛠️ Improved error messages, model examples, and developer documentation
-
-**Contribution stats**
-
-**21 PRs** · **5 merged** · **16 open/closed unmerged**
-
-**Current focus:** 🚧 Improving **streaming support and production readiness** in Mesa-LLM.
-
-🔗 [Mesa-LLM](https://github.com/mesa/mesa-llm)
+| Metric | Contribution |
+|:--|:--:|
+| Pull Requests | **21** |
+| ✅ Merged PRs | **5** |
+| 🟢 Open PRs | **10** |
+| Closed without merge | **6** |
 
 ---
 
-## 🧠 What I Work With
+### ✅ Merged Contributions
+
+#### PR #303 — First Model Tutorial
+Improved the first model tutorial and documentation formatting.
+
+#### PR #74 — SugarScape Model
+Added a SugarScape model example to the project.
+
+#### PR #64 — Getting Started
+Added a getting-started guide for Mesa-LLM.
+
+#### PR #60 — Mesa-LLM Overview
+Added an overview page introducing Mesa-LLM.
+
+#### PR #45 — First Mesa-LLM Model Tutorial
+Added the first model tutorial for Mesa-LLM.
+
+---
+
+### 🟢 Current / Open Contributions
+
+#### PR #343 — Persistent Fallback Model Support
+**Status:** Open
+
+Working on adding optional **fallback LLM support using LiteLLM**.
+
+Key ideas:
+
+- Primary and fallback model configuration
+- Support for different model providers
+- Automatic fallback after model failure
+- Persistent fallback strategy
+- Logging model failures and fallback activation
+- Support for synchronous and asynchronous generation
+
+**Goal:** Improve reliability and move Mesa-LLM toward more production-ready LLM infrastructure.
+
+---
+
+#### PR #335 — SolaraViz / SpaceRenderer Migration
+**Status:** Open
+
+Updated Mesa-LLM visualization code to use Mesa's newer
+**SolaraViz SpaceRenderer API** and fixed related example issues.
+
+---
+
+#### PR #302 — Tool Call Retry
+**Status:** Open
+
+Proposed bounded retry handling for failed tool calls in LLM agents.
+
+Focus areas:
+
+- Tool execution failures
+- Retry logic
+- Failure context
+- Retry history
+- More fault-tolerant agent execution
+
+---
+
+#### PR #301 — School Enrollment Model
+**Status:** Open
+
+Added an Agent-Based Model simulating interactions between students
+and schools, including:
+
+- Student decision-making
+- School capacity
+- School selection
+- Admission constraints
+- Tuition dynamics
+- Emergent enrollment patterns
+
+---
+
+#### PR #292 — Epstein Civil Violence Tutorial
+**Status:** Open
+
+Created a beginner-friendly tutorial demonstrating:
+
+- LLM-powered agents
+- Tool usage
+- ReAct reasoning
+- Agent interaction
+- Hybrid rule-based + LLM simulation
+
+---
+
+#### PR #288 — Negotiation Tutorial Improvements
+**Status:** Open
+
+Improved the negotiation tutorial with additional grid functionality
+and tool integration.
+
+---
+
+### 🧪 Other Mesa-LLM Contributions
+
+I have also worked on several agent-based models and examples, including:
+
+- 🌾 **Agriculture Decision Model**
+- 🚗 **EV Adoption Model**
+- 🏫 **School Enrollment Model**
+- 🏃 **Conflict-Driven Migration Model**
+- ⚔️ **Epstein Civil Violence Model**
+- 🤝 **Negotiation Model**
+- 📚 **Mesa-LLM tutorials and documentation**
+
+These contributions explore how **LLM reasoning, tool use, and traditional
+agent-based modeling** can work together.
+
+---
+
+## 🛠️ Technical Skills
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+`Python` · `JavaScript` · `SQL`
 
-### LLM / RAG
-`LLMs` · `RAG` · `Embeddings` · `FAISS` · `Vector Databases` · `Ollama`
+---
 
-### Backend / Web
-`FastAPI` · `Flask` · `Node.js` · `React` · `Vite`
+### 🤖 AI / Machine Learning
 
-### Data / Search
-`Crawl4AI` · `DuckDB` · `BM25` · `FAISS` · `Data Pipelines`
+`LLMs` · `RAG` · `LangChain` · `Scikit-Learn` · `NumPy` · `Pandas` · `Matplotlib`
 
-### Tools & Deployment
+---
+
+### 🧠 LLM Infrastructure
+
+`Ollama` · `LiteLLM` · `Embeddings` · `FAISS` · `Vector Databases` · `Prompt Engineering`
+
+---
+
+### 🔎 Search & Data Engineering
+
+`Crawl4AI` · `BM25` · `FAISS` · `DuckDB` · `Data Pipelines` · `Web Crawling` · `Data Processing`
+
+---
+
+### 🌐 Backend & Frontend
+
+`FastAPI` · `Flask` · `Node.js` · `React` · `Vite` · `Streamlit`
+
+---
+
+### ⚙️ Tools & Deployment
+
 `Git` · `GitHub` · `Docker` · `n8n` · `Railway` · `Vercel`
 
 ---
 
-## 🔭 Currently Exploring
+# 📌 Currently Working On
 
-- 🤖 **Agentic AI & LLM Systems**
-- 🧠 **Agent-Based Modeling with Mesa**
-- 🔎 **Search & Information Retrieval**
-- 📚 **Production RAG Systems**
-- ⚙️ **Data Engineering for AI**
-- 🚀 **Productionizing LLM Applications**
-- 🔄 **Reliable and scalable AI workflows**
+### 🔎 NexaSearch
+
+Building a search-engine pipeline focused on:
+
+`Web Crawling → Content Extraction → Cleaning → Deduplication → Processing → Indexing → Retrieval`
 
 ---
 
-## 📌 Engineering Focus
+### 🧠 Mesa-LLM
 
-I am particularly interested in the gap between an **AI prototype and a reliable production system** — including data pipelines, retrieval, model reliability, observability, deployment, and system design.
-
----
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niteshv1520)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nitesh%20Verma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niteshver)
+Currently exploring **streaming and production-readiness improvements** for LLM-powered agent simulations.
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 AI Systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=niteshver&theme=dark&cache_seconds=86400" height="165"/>
-</p>
+Learning and experimenting with:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshver&layout=compact&theme=dark&cache_seconds=86400" height="165"/>
-</p>
-
----
-
-## 🎯 Goals
-
-- Build production-grade **AI/ML systems**
-- Contribute consistently to **open source**
-- Strengthen **ML, AI, and software engineering fundamentals**
-- Grow into an **AI/ML Engineer focused on real-world systems**
+- Agentic AI
+- Multi-agent systems
+- Production RAG
+- LLM reliability
+- Search & information retrieval
+- AI data engineering
+- Model serving and deployment
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=niteshver&icon=0&color=0)
+# 📈 My Engineering Focus
 
-<!-- Built with ❤️ by Nitesh -->
+I am particularly interested in the gap between an **AI prototype and a production-ready system**.
+
+My current focus is on understanding the complete lifecycle:
+
+```text
+Data
+  ↓
+Processing
+  ↓
+Retrieval / Search
+  ↓
+LLM / Agent
+  ↓
+API
+  ↓
+Application
+  ↓
+Deployment
+  ↓
+Reliability
