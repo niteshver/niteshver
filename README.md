@@ -10,11 +10,10 @@ I build AI/ML applications focused on **LLMs, RAG, search systems, and intellige
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|:--|:--|:--|:--:|
-| 🔎 **[NexaSearch](https://github.com/niteshver/NexaSearch)** | Domain-focused search engine and data collection pipeline | Python · Crawl4AI · Streamlit · Data Engineering | 🟢 Running |
-| 🏛️ **[TenderHub](https://github.com/niteshver/Tendor_Hub)** | AI-powered tender & bidder document verification platform | Python · FastAPI · RAG · JavaScript · Tailwind CSS | ✅ Completed |
-
+| Project | Description | Tech Stack | Status | Deployment |
+|:--|:--|:--|:--:|:--|
+| 🔎 **[NexaSearch](https://github.com/niteshver/NexaSearch)** | Domain-focused search engine and data collection pipeline | Python · Crawl4AI · Streamlit · Data Engineering | 🟢 Running | 💻 Local |
+| 🏛️ **[TenderHub](https://github.com/niteshver/Tendor_Hub)** | AI-powered tender & bidder document verification platform | Python · FastAPI · RAG · JavaScript · Tailwind CSS | ✅ Completed | 🚂 Railway |
 ---
 
 ## 🌍 Open Source Contribution
