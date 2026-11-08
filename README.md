@@ -1,12 +1,41 @@
-# 👋 Hi, I'm Nitesh Verma
+# Hi, I'm Nitesh Verma 👋
 
-### AI/ML Developer | ECE Student | Open Source Contributor
+<div align="center">
 
-I build AI/ML applications focused on **LLMs, RAG, search systems, and intelligent data pipelines**.
+### B.Tech ECE @ Guru Jambheshwar University of Science and Technology, Hisar
 
-📍 India
+**AI/ML Developer • LLM Engineer • Open Source Contributor**
+
+Building intelligent systems with LLMs, RAG, search engines, and AI agents.
 
 ---
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=niteshver&show_icons=true&theme=dark&hide_border=true" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshver&layout=compact&theme=dark&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshver&theme=dark&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+
 
 ## 🚀 Featured Projects
 
